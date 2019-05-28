@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.palindromeFun.iml" filepath="$PROJECT_DIR$/.idea/modules/com.palindromeFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.palindromeFun_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.palindromeFun_main.iml" group="com.palindromeFun" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.palindromeFun_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.palindromeFun_test.iml" group="com.palindromeFun" />
+    </modules>
+  </component>
+</project>
